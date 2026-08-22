@@ -17,4 +17,10 @@ I am assuming the role of a Junior Project Manager. This Project will build an A
 - Project Budget
 - Project Execution Strategy
 
+## Week 3 Tasks
+- Advanced Critical Path Analysis
+- Network Diagram'
+- Network Risk Assessment
+- Schedule Improvement Recommendation
+
 
